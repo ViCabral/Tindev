@@ -1,2 +1,2 @@
-# tindev
+# Tindev
 Semana de Estudo Omnistack 
